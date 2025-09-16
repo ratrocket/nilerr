@@ -1,6 +1,6 @@
 module github.com/ratrocket/nilerr
 
-go 1.15
+go 1.24
 
 require (
 	github.com/gostaticanalysis/comment v1.4.1
