@@ -38,7 +38,7 @@ func f() error {
 
 ## How to use
 ```
-$ go install github.com/gostaticanalysis/nilerr/cmd/nilerr@latest
+$ go install github.com/ratrocket/nilerr/cmd/nilerr@latest
 $ nilerr ./...
 ```
 
